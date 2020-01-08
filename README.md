@@ -1,2 +1,3 @@
 # Spot-Restaurante
-Teste de Habilidades
+
+Primeira contato com React. 
