@@ -1,0 +1,22 @@
+* {
+    
+    
+}
+
+#cabeçalho {
+    height: 150px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0qfENxFJ8GCHuHbebuRbYippXG1zS2rWIuFmnBnPCP5krlWH&s);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#titulo {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
